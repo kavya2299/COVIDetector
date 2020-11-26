@@ -3,7 +3,6 @@ An automated detector for the worldwide COVID-19
 These are the final results for the COVIDNet models.
 ## COVIDNet-CXR4-A on COVIDx4 (100 COVID-19 test)
 |     Sensitivity (%)        |
-|----------------------------|
 |Normal	|Pneumonia	|COVID-19|
 |-------|-----------|--------|
 |94.0	  |94.0	      |95.0    |
